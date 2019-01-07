@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.tslintIntegration": true,
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "files.exclude": {
+    "out": false
+  },
+  "search.exclude": {
+    "out": true
+  },
+  "typescript.tsc.autoDetect": "off"
+}
